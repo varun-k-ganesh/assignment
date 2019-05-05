@@ -5,6 +5,6 @@ The URL's to get the details
 
 To Get List of Files: http://host:port/file/listFiles
 
-To Upload file: http://port:host/file/upload
+To Upload file: http://host:port/file/upload
 
-To download a file: http://port:host/file/download?filePath=1to10%5Ctest.txt
+To download a file: http://host:port/file/download?filePath=1to10%5Ctest.txt
